@@ -1,3 +1,3 @@
-export default (req,res)=>{
-  res.send({status:'up'});
+export default (req, res) => {
+  res.send({ status: 'up' })
 }
