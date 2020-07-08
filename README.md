@@ -6,6 +6,6 @@
   </p>  
 </p>
 
-## Added Templates
+<h3 align="center">Added Templates</h3>
 
 - Babel Template
