@@ -1,3 +1,2 @@
-/node_modules
-/dist
-/routes
+dist
+node_modules
