@@ -9,3 +9,4 @@
 <h2 align="center">Added Templates</h2>
 
 - Babel Template
+- Plain / Minimal Template
