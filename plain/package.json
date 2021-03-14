@@ -1,0 +1,14 @@
+{
+    "name": "music-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "npx ftrouter -d routes -p 3000",
+      "fix": "npx standard --fix"
+    },
+    "dependencies": {
+      "ftrouter": "barelyhuman/ftrouter"
+    }
+  }
+  
